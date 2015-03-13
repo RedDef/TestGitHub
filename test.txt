@@ -2,4 +2,6 @@ Hello World
 
 I'm just a file to test some functions.
 
+Second comment added =)
+
 Autor: RedDef
